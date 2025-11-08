@@ -17,6 +17,7 @@ services:
   app:
     build:
       context: ./frontend
+      dockerfile: Dockerfile.app
     container_name: app
     restart: unless-stopped
     expose:

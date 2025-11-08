@@ -1,0 +1,26 @@
+# Core Backend Dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+python-dotenv==1.0.0
+ 
+# OpenAI and LangChain
+openai>=1.6.1,<2.0.0
+langchain==0.1.0
+langchain-openai==0.0.2
+
+# Vector Database
+chromadb==0.4.18
+ 
+# Retry Logic
+tenacity==8.2.3
+ 
+# Document Processing (Step 1.1 - Knowledge Base Expansion)
+PyMuPDF==1.24.0  # PDF extraction
+python-docx==1.1.0  # DOCX extraction
+python-pptx==0.6.23  # PPTX extraction
+ 
+# Text-to-Speech Engines (Free Only)
+gtts==2.5.0  # Google TTS - Free, requires internet
+pyttsx3==2.90  # System TTS - Offline, platform-specific
+ 
