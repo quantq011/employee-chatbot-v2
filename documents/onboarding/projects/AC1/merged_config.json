@@ -1,0 +1,109 @@
+{
+  "info": {
+    "project_name": "AC1",
+    "description": "Onboarding configuration for project AC1",
+    "created_by": "system",
+    "contact": {
+      "owner": "project-owner@example.com",
+      "support": "onboarding-support@example.com"
+    }
+  },
+  "region": {
+    "code": "EU",
+    "name": "Europe",
+    "notes": "Use EU-specific compliance and data residency guidelines"
+  },
+  "roles": [
+    {
+      "id": "BA",
+      "title": "Business Analyst",
+      "onboarding_tasks": [
+        "Review project charter and requirements",
+        "Meet with stakeholders",
+        "Set up access to requirement tracking (Jira/Confluence)"
+      ]
+    },
+    {
+      "id": "PM",
+      "title": "Project Manager",
+      "onboarding_tasks": [
+        "Review project plan and milestones",
+        "Set up project board and team calendar",
+        "Access to reporting dashboards"
+      ]
+    },
+    {
+      "id": "Backend",
+      "title": "Backend Engineer (Java Spring Boot)",
+      "skills": ["Java", "Spring Boot", "Postgres", "DynamoDB", "AWS", "Redis", "Sockets", "kubectl", "WSL"],
+      "onboarding_tasks": [
+        "Setup local dev environment (WSL)",
+        "Clone repository and run service locally",
+        "Configure Postgres and test data",
+        "Verify connectivity to DynamoDB (or local emulator)",
+        "Familiarize with AWS gossamer3 usage and deployment flows",
+        "Run integration tests and smoke tests"
+      ]
+    },
+    {
+      "id": "Frontend",
+      "title": "Frontend Engineer (Angular)",
+      "skills": ["Angular", "Node", "Gateway"],
+      "onboarding_tasks": [
+        "Install Node and npm",
+        "Install project frontend dependencies",
+        "Run frontend locally and connect to backend APIs",
+        "Review style guide and component library"
+      ]
+    },
+    {
+      "id": "Tester",
+      "title": "QA / Tester",
+      "onboarding_tasks": [
+        "Access testing environments",
+        "Run existing test suites",
+        "Understand QA processes and reporting"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "phase_0",
+      "title": "Preboarding",
+      "steps": ["Complete HR forms", "Receive equipment and credentials"]
+    },
+    {
+      "id": "phase_1",
+      "title": "Orientation",
+      "steps": ["Team introductions", "Overview of architecture and roadmap"]
+    },
+    {
+      "id": "phase_2",
+      "title": "Technical Onboarding",
+      "steps": ["Env setup", "Run sample tasks", "Pair with mentor"]
+    },
+    {
+      "id": "phase_3",
+      "title": "Product Ramp-up",
+      "steps": ["Take ownership of small ticket", "Deliver first PR"]
+    }
+  ],
+  "project_specific": {
+    "infrastructure": {
+      "cloud": "AWS",
+      "services": ["gossamer3", "DynamoDB", "RDS(Postgres)", "ECS or EKS"],
+      "dev_tools": ["kubectl", "WSL", "redis"]
+    },
+    "architecture_notes": "Microservices communicating via sockets and REST. Frontend is Angular served behind gateway/node proxy.",
+    "databases": [
+      {"type": "postgres", "purpose": "primary relational store"},
+      {"type": "dynamodb", "purpose": "fast key-value / config store"}
+    ]
+  },
+  "metadata": {
+    "merged_sections": ["info", "region", "roles", "phases", "project_specific"],
+    "source_overrides": ["overrides.json"],
+    "generated_at": "2025-11-07T00:00:00Z",
+    "version": "1.0"
+  }
+}

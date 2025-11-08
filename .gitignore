@@ -1,0 +1,51 @@
+# OS/Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+.cache/
+
+# STM32 / Keil / CubeIDE
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+RTE/
+Objects/
+Listings/
+*.scvd
+*.bak
+*.dep
+*.mex
+*.ioc.save
+*.launch
+*.ewp
+*.eww
+*.ewd
+*.map
+*.lst
+
+# Arduino / ESP32
+.build/
+*.elf
+*.bin
+*.hex
+.pio/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Logs
+*.log

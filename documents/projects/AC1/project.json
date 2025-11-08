@@ -1,0 +1,11 @@
+{
+  "project_id": "AC1",
+  "template_name": "default",
+  "region": "EU",
+  "phases": ["first-3-day", "week-02", "week-03"],
+  "project_info": {
+    "owner": "ac1-owner@example.com",
+    "support": "ac1-support@example.com",
+    "repos": ["git@github.com:org/ac1-backend.git", "git@github.com:org/ac1-frontend.git"]
+  }
+}

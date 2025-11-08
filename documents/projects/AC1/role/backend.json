@@ -1,0 +1,11 @@
+{
+  "role": "backend",
+  "description": "Backend Engineer (Java Spring Boot)",
+  "responsibilities": [
+    "Implement APIs",
+    "Maintain database schemas",
+    "Integrate with AWS services"
+  ],
+  "required_skills": ["Java", "Spring Boot", "Postgres", "DynamoDB", "AWS", "Redis"],
+  "tools": ["IDEA", "kubectl", "WSL", "git"]
+}

@@ -1,0 +1,7 @@
+{
+  "role": "frontend",
+  "description": "Frontend Engineer (Angular)",
+  "responsibilities": ["Implement UI components", "Integrate with backend APIs", "Follow style guide"],
+  "required_skills": ["Angular", "TypeScript", "HTML", "CSS", "Node"],
+  "tools": ["VSCode", "Node", "npm"]
+}

@@ -1,0 +1,9 @@
+{
+  "region": "EU",
+  "timezone": "CET",
+  "work_hours": "09:00-17:30",
+  "compliance": {
+    "data_residency": "EU",
+    "gdpr": true
+  }
+}

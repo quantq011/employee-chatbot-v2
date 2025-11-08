@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-11-07 23:48:37",
+    "question": "I am Senior Backend developer, what are need to do when join to AC project?",
+    "answer": "As a Senior Backend Developer joining the AC project, here are the actionable steps you should follow to ensure a smooth onboarding process:\n\n### Pre-Onboarding (1 week before start date)\n1. **Review Project Documentation:**\n   - Familiarize yourself with the AC project’s objectives, architecture, and technologies used. Access the documentation repository (link provided by your HR or team lead).\n   \n2. **Set Up Development Environment:**\n   - Ensure you have all necessary tools installed. This typically includes:\n     - IDE (e.g., IntelliJ, VS Code)\n     - Version control system (Git)\n     - Required programming languages (e.g., Java, Python, etc.)\n     - Database tools (e.g., PostgreSQL, MySQL)\n\n### Day 1: Onboarding\n1. **Attend Orientation Session:**\n   - Participate in the company orientation to understand company culture, policies, and procedures.\n\n2. **Meet Your Team:**\n   - Schedule a meeting with your immediate team members and project manager to introduce yourself and learn about team dynamics.\n\n3. **Access Necessary Accounts:**\n   - Ensure you have access to necessary tools and platforms, such as:\n     - Project management tools (e.g., Jira, Trello)\n     - Communication tools (e.g., Slack, Microsoft Teams)\n     - Code repositories (e.g., GitHub, GitLab)\n\n### Week 1: Familiarization\n1. **Understand the Codebase:**\n   - Spend time reviewing the existing codebase, focusing on key modules and components. Take notes on architecture and design patterns used.\n\n2. **Setup Local Development Environment:**\n   - Clone the repository and set up the project locally. Run the application and ensure everything is functioning properly.\n\n3. **Work on Onboarding Tasks:**\n   - Complete any initial tasks assigned by your team lead. This could include bug fixes, feature enhancements, or documentation updates.\n\n4. **Schedule Regular Check-ins:**\n   - Set up daily or weekly check-ins with your manager to discuss progress, challenges, and any questions you may have.\n\n### Week 2: Integration\n1. **Participate in Team Meetings:**\n   - Join daily stand-ups and sprint planning meetings to understand the workflow and current priorities.\n\n2. **Collaborate on Current Sprint:**\n   - Start contributing to the current sprint by picking up tasks from the backlog. Collaborate with team members to ensure alignment.\n\n3. **Seek Feedback:**\n   - After completing tasks, seek feedback from peers and your manager to understand areas of improvement.\n\n### Ongoing (1 month onwards)\n1. **Continuous Learning:**\n   - Engage in regular learning sessions or training relevant to the tools and technologies used in the AC project.\n\n2. **Contribute to Code Reviews:**\n   - Participate in code reviews to enhance team knowledge sharing and maintain code quality.\n\n3. **Build Relationships:**\n   - Foster relationships with cross-functional teams, such as frontend developers, QA engineers, and product managers, to understand the bigger picture of the project.\n\n### Resources:\n- **Documentation Repository:** [Link to Documentation]\n- **Development Environment Setup Guide:** [Link to Setup Guide]\n- **Team Communication Channel:** [Link to Slack/Teams]\n\nBy following these steps, you'll be well-equipped to contribute effectively to the AC project. Welcome aboard!",
+    "sources": [],
+    "metadata": {
+      "model": "gpt-4o-mini",
+      "tokens_used": 0,
+      "project": "AC1",
+      "role": null
+    },
+    "project": "AC1",
+    "role": null
+  },
+  {
+    "timestamp": "2025-11-07 23:46:39",
+    "question": "What happens on Day 1 of onboarding?",
+    "answer": "On Day 1 of onboarding, the following steps typically take place:\n\n1. **Welcome and Introduction**:\n   - You will be greeted by your onboarding coordinator or manager.\n   - A brief introduction to the company culture, values, and mission will be provided.\n\n2. **Completion of Paperwork**:\n   - You will complete necessary employment paperwork, including tax forms, direct deposit information, and non-disclosure agreements.\n   - Ensure you have identification documents ready for verification.\n\n3. **IT Setup**:\n   - You will receive your company equipment (laptop, phone, etc.) and access credentials.\n   - The IT team will assist you in setting up your accounts and software tools.\n\n4. **Orientation Session**:\n   - Participate in an orientation session where you will learn about company policies, benefits, and resources available to you.\n   - You may receive an employee handbook and other materials to review.\n\n5. **Team Introductions**:\n   - You will meet your team members and key stakeholders within the organization.\n   - Engage in icebreaker activities to foster connections with colleagues.\n\n6. **Training Schedule Overview**:\n   - An overview of the training schedule for the upcoming weeks will be provided, detailing the topics and sessions.\n\n**Timeline**:\n- This entire process typically occurs within the first half of the workday.\n- Expect to spend the latter half of Day 1 getting acquainted with your work environment and team.\n\n**Specific Resources**:\n- Access the employee handbook and benefits guide available on the company intranet.\n- For IT support, refer to the IT help desk contact information provided in your welcome email.\n- Familiarize yourself with the onboarding portal for additional training materials and resources.\n\nFeel free to reach out to your onboarding coordinator if you have any questions or need further assistance!",
+    "sources": [],
+    "metadata": {
+      "model": "gpt-4o-mini",
+      "tokens_used": 0,
+      "project": null,
+      "role": null
+    },
+    "project": null,
+    "role": null
+  },
+  {
+    "timestamp": "2025-11-07 23:46:00",
+    "question": "What are the compliance requirements for EU projects?",
+    "answer": "For EU projects, compliance requirements typically revolve around several key areas, including data protection, financial regulations, and project management standards. Here are actionable steps and timelines to ensure compliance:\n\n### 1. **Data Protection - GDPR Compliance**\n   - **Action Steps:**\n     - Conduct a data protection impact assessment (DPIA) to identify potential risks and mitigation strategies.\n     - Ensure all personal data collected is necessary and obtain explicit consent from individuals.\n     - Implement data processing agreements with any third parties involved in handling personal data.\n   - **Timeline:** Complete DPIA within the first month of the project. Ensure data handling procedures are established and documented by the end of the second month.\n\n### 2. **Financial Regulations**\n   - **Action Steps:**\n     - Familiarize yourself with the financial rules applicable to EU funding, including eligibility criteria for costs.\n     - Keep detailed records of all project-related expenses and ensure they adhere to the guidelines provided by the funding body.\n   - **Timeline:** Review financial guidelines during the project planning phase (first month) and set up a tracking system for expenses within the first two months.\n\n### 3. **Project Management Standards**\n   - **Action Steps:**\n     - Follow the project management framework recommended by the EU, such as the Logical Framework Approach (LFA).\n     - Regularly monitor and report on project progress, ensuring to meet deadlines for interim and final reports.\n   - **Timeline:** Establish a project management plan by the end of the first month, and set up a reporting schedule to be reviewed quarterly.\n\n### 4. **Reporting and Auditing**\n   - **Action Steps:**\n     - Prepare for regular audits by maintaining all necessary documentation and records.\n     - Submit progress reports as required by the funding body, adhering to specified formats and deadlines.\n   - **Timeline:** Prepare the first progress report by the end of the third month and continue quarterly thereafter.\n\n### Resources:\n- **GDPR Guidelines:** [European Commission GDPR Resource](https://ec.europa.eu/info/law/law-topic/data-protection_en)\n- **EU Financial Regulations:** [EU Financial Regulation Overview](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)\n- **Project Management Tools:** Consider using project management software like Trello or Asana to track tasks and deadlines.\n\nBy following these steps and timelines, you will ensure compliance with the necessary requirements for EU projects.",
+    "sources": [],
+    "metadata": {
+      "model": "gpt-4o-mini",
+      "tokens_used": 0,
+      "project": null,
+      "role": null
+    },
+    "project": null,
+    "role": null
+  },
+  {
+    "timestamp": "2025-10-30 21:48:23",
+    "question": "What tools does a backend developer need?",
+    "answer": "It seems that I couldn't find specific documentation related to the tools needed for backend developers in the project database. However, I can provide you with a general list of common tools that backend developers typically use:\n\n### Common Tools for Backend Developers:\n\n1. **Programming Languages:**\n   - Python (with frameworks like Django, Flask)\n   - Java (with Spring, Hibernate)\n   - JavaScript (Node.js)\n   - Ruby (with Ruby on Rails)\n   - Go\n\n2. **Version Control:**\n   - Git (with platforms like GitHub, GitLab, or Bitbucket)\n\n3. **Database Management:**\n   - SQL databases (PostgreSQL, MySQL)\n   - NoSQL databases (MongoDB, Cassandra)\n\n4. **Web Servers:**\n   - Apache\n   - Nginx\n\n5. **Development Environments:**\n   - IDEs (Integrated Development Environments) like Visual Studio Code, JetBrains IntelliJ IDEA, or PyCharm\n\n6. **Containerization:**\n   - Docker\n   - Kubernetes for orchestration\n\n7. **API Development Tools:**\n   - Postman for testing APIs\n   - Swagger for API documentation\n\n8. **Monitoring and Logging:**\n   - Tools like Prometheus, Grafana for monitoring\n   - ELK Stack (Elasticsearch, Logstash, Kibana) for logging\n\n### Next Steps:\n1. **Familiarize Yourself with the Required Languages and Frameworks:** Depending on the project's stack.\n2. **Set Up Version Control:** Ensure you have Git set up and familiarize yourself with the repository structure.\n3. **Install Necessary Tools:** Based on the languages and frameworks you'll be working with.\n4. **Explore Documentation:** Look for any project-specific tools or practices.\n\nIf you need more detailed information or specific tools related to a particular framework or database, please let me know!",
+    "sources": [],
+    "metadata": {
+      "model": "gpt-4o-mini-2024-07-18",
+      "tokens_used": 530,
+      "tool_calls": 1,
+      "tools_used": [
+        "search_project_docs"
+      ],
+      "parsed_project": null,
+      "parsed_role": "backend",
+      "parsed_region": null
+    },
+    "project": null,
+    "role": null
+  }
+]

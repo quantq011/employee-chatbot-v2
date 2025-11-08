@@ -1,0 +1,11 @@
+{
+  "phase": "first-3-day",
+  "description": "Initial onboarding - first three days",
+  "duration": "3 days",
+  "objectives": [
+    "Complete HR paperwork",
+    "Set up local development environment",
+    "Meet mentor and team",
+    "Run the full application locally"
+  ]
+}
